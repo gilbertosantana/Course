@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files", "Archives\Files.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files2", "Files2\Files2.csproj", "{28461CB3-D886-454B-97E4-E42D8E449756}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesUsingBlock", "FilesUsingBlock\FilesUsingBlock.csproj", "{64F29724-7920-4A88-931C-91E840C5C468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesUsingBlock", "FilesUsingBlock\FilesUsingBlock.csproj", "{64F29724-7920-4A88-931C-91E840C5C468}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesStreamWriter", "FilesStreamWriter\FilesStreamWriter.csproj", "{84B85531-25D0-4C93-A1B9-493E703A5865}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesStreamWriter", "FilesStreamWriter\FilesStreamWriter.csproj", "{84B85531-25D0-4C93-A1B9-493E703A5865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesDirectory", "FilesDirectory\FilesDirectory.csproj", "{C2113BA7-089E-46AA-AF17-6E5DF9C15DBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesDirectory", "FilesDirectory\FilesDirectory.csproj", "{C2113BA7-089E-46AA-AF17-6E5DF9C15DBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesPath", "FilesPath\FilesPath.csproj", "{3033CB2D-6195-4A9E-B176-6562E1707E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesPath", "FilesPath\FilesPath.csproj", "{3033CB2D-6195-4A9E-B176-6562E1707E7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesExercice", "FilesExercice\FilesExercice.csproj", "{B45DAD55-16F8-4041-9924-553F7B1DC852}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesExercice", "FilesExercice\FilesExercice.csproj", "{B45DAD55-16F8-4041-9924-553F7B1DC852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{40FE6E0A-361E-40B9-8C13-6EC14AE1A090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{B45DAD55-16F8-4041-9924-553F7B1DC852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45DAD55-16F8-4041-9924-553F7B1DC852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45DAD55-16F8-4041-9924-553F7B1DC852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FE6E0A-361E-40B9-8C13-6EC14AE1A090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FE6E0A-361E-40B9-8C13-6EC14AE1A090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FE6E0A-361E-40B9-8C13-6EC14AE1A090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FE6E0A-361E-40B9-8C13-6EC14AE1A090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
