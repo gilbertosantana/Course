@@ -27,8 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesPath", "FilesPath\File
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesExercice", "FilesExercice\FilesExercice.csproj", "{B45DAD55-16F8-4041-9924-553F7B1DC852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceIComparable", "FilesComparable\InterfaceIComparable.csproj", "{2CE9F09A-05BE-45D4-814D-C950AD9C5C5C}"
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{40FE6E0A-361E-40B9-8C13-6EC14AE1A090}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesExercice", "FilesExercice\FilesExercice.csproj", "{B45DAD55-16F8-4041-9924-553F7B1DC852}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
