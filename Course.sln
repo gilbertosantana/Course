@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesPath", "FilesPath\File
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesExercice", "FilesExercice\FilesExercice.csproj", "{B45DAD55-16F8-4041-9924-553F7B1DC852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesExercice", "FilesExercice\FilesExercice.csproj", "{B45DAD55-16F8-4041-9924-553F7B1DC852}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestricaoGererics", "RestricaoGererics\RestricaoGererics.csproj", "{392DDF7B-8F0E-40A9-B561-D036E1FA7CB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +83,10 @@ Global
 		{B45DAD55-16F8-4041-9924-553F7B1DC852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45DAD55-16F8-4041-9924-553F7B1DC852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45DAD55-16F8-4041-9924-553F7B1DC852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392DDF7B-8F0E-40A9-B561-D036E1FA7CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392DDF7B-8F0E-40A9-B561-D036E1FA7CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392DDF7B-8F0E-40A9-B561-D036E1FA7CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392DDF7B-8F0E-40A9-B561-D036E1FA7CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
